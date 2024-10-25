@@ -10,7 +10,7 @@ public class SquareCube {
      * also return the dimension or -1. This function should call your isSquare function.
      * 
      * you can assume that inputs will be valid arrays
-     */
+     */ 
 
     public static int isSquare(int[][] matrix) { //these methods must be static
         int dim = -1;
