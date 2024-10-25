@@ -1,4 +1,4 @@
-public class IsSquare {
+public class SquareCube {
     /*
      * A 2 dimensional matrix is considered square if all of its rows have the same number of elements and 
      * the number of rows is equal to this number of elements. Write a method isSquare() that takes in a 
