@@ -87,7 +87,7 @@ public class MergeSort {
             // Example array to be sorted
             int a[] = { 12, 11, 13, 5, 6, 7 };
     
-            // Create an object of MergeSort
+            // Create an object of MergeSort 
             MergeSort ob = new MergeSort();
     
             // Call the sort method on the entire array
